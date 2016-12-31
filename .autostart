@@ -1,0 +1,8 @@
+nm-applet &
+gksu 'sudo openvpn --config /etc/openvpn/crunchyroll.conf --script-security 2 --auth-nocache' &
+pasystray &
+owncloud & 
+xset -dpms &
+xset s off &
+redshift-gtk &
+feh --bg-fill ~/.wallpaper.jpg &
